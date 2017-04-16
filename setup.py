@@ -38,7 +38,7 @@ test_dependencies = [
     'mock',
     'python-Levenshtein',
 ]
-
+#×¢ÊÍ²âÊÔ
 setup(
     name='fire',
     version='0.1.0',
